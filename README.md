@@ -18,4 +18,4 @@ List, foreach, sort
 bashdotnet run
 
 Sudenaz Ş.
-GitHub • LinkedIn
+[GitHub](https://github.com/Freesia4444) • [LinkedIn](https://www.linkedin.com/in/sudenaz-%C5%9F-083a49297/)
